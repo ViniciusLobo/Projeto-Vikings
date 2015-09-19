@@ -27,5 +27,6 @@
 *.out
 *.app
 
-#Pasta
-teste\
+#Windows
+*.sln
+*.suo
