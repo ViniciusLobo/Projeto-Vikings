@@ -36,6 +36,15 @@ bool Input::getKeyboardInput(const KeyboardInput *keyn, EventTypes type) {
         return (keyv.released_key_);
         
     } else {
+        keyv.pressed_key_ = false;
+        keyv.released_key_ = false;
+        keyv.held_key_ = false;
+        
         return NULL;
     }
+}
+
+void Input::clearKeyFrames() {
+    keyv.pressed_key_ = false;
+    keyv.released_key_ = false;
 }
