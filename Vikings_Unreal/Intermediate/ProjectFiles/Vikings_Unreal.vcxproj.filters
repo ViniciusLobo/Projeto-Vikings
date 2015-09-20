@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="..\..\Vikings_Unreal.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{0A63F033-BBBF-4F3D-A925-4E17E2C5E308}</UniqueIdentifier>
+			<UniqueIdentifier>{21644E95-AC22-4340-834E-CC8B5445A38D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Vikings_Unreal.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{2A6EC0CC-6F22-46E6-8A42-48BFC53778F3}</UniqueIdentifier>
+			<UniqueIdentifier>{54EBD2FF-155B-42E3-BC6D-B85DA795E964}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -22,7 +22,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Vikings_Unreal">
-			<UniqueIdentifier>{F470C8F2-6AEE-43BA-9F22-1A966999F5EC}</UniqueIdentifier>
+			<UniqueIdentifier>{9E1086AD-D97A-472F-AC15-3B4A4835F972}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Vikings_Unreal\Vikings_Unreal.Build.cs">
 			<Filter>Source\Vikings_Unreal</Filter>
@@ -40,10 +40,10 @@
 			<Filter>Source\Vikings_Unreal</Filter>
 		</ClInclude >
 		<Filter Include="Source\Vikings_Unreal\Resources">
-			<UniqueIdentifier>{66D3B78E-87A3-4762-BFBF-3F6FDC12D2C5}</UniqueIdentifier>
+			<UniqueIdentifier>{4B9FC4CE-CFDA-43AD-A8DD-44E85E09E0CD}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\Vikings_Unreal\Resources\Windows">
-			<UniqueIdentifier>{86CD068B-3BDB-40D9-881F-E3E40AEB4B98}</UniqueIdentifier>
+			<UniqueIdentifier>{5FA2F7ED-7516-4514-8562-C134FCD6F9A3}</UniqueIdentifier>
 		</Filter>
 		<ResourceCompile Include="..\..\Source\Vikings_Unreal\Resources\Windows\Vikings_Unreal.rc">
 			<Filter>Source\Vikings_Unreal\Resources\Windows</Filter>
