@@ -1,0 +1,81 @@
+﻿Log file open, 09/19/15 20:31:15
+LogInit:Display: Running engine for game: Vikings_Unreal
+LogInit: Version: 4.7.6-2513093+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Apr 15 2015 12:09:54
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.09.19-23.31.15:841][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2015.09.19-23.31.15:913][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.09.19-23.31.16:181][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.09.19-23.31.16:200][  0]LogInit: Object subsystem initialized
+[2015.09.19-23.31.16:322][  0]LogInit: Selected Device Profile: [Windows]
+[2015.09.19-23.31.16:322][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.09.19-23.31.16:707][  0]LogInit: Computer: RFF
+[2015.09.19-23.31.16:707][  0]LogInit: User: Pinguim
+[2015.09.19-23.31.16:707][  0]LogInit: CPU Page size=4096, Cores=2
+[2015.09.19-23.31.16:707][  0]LogInit: High frequency timer resolution =2.734473 MHz
+[2015.09.19-23.31.16:707][  0]LogMemory: Memory total: Physical=4.0GB (4GB approx) Virtual=131072.0GB
+[2015.09.19-23.31.16:707][  0]LogMemory: Platform Memory Stats for Windows
+[2015.09.19-23.31.16:707][  0]LogMemory: Process Physical Memory: 47.05 MB used, 47.05 MB peak
+[2015.09.19-23.31.16:707][  0]LogMemory: Process Virtual Memory: 24.55 MB used, 24.59 MB peak
+[2015.09.19-23.31.16:707][  0]LogMemory: Physical Memory: 3347.04 MB used, 4092.18 MB total
+[2015.09.19-23.31.16:707][  0]LogMemory: Virtual Memory: 301.35 MB used, 134217728.00 MB total
+[2015.09.19-23.31.17:649][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 240 (Feature Level 10_0)
+[2015.09.19-23.31.17:649][  0]LogD3D11RHI: Adapter has 972MB of dedicated video memory, 0MB of dedicated system memory, and 2046MB of shared system memory, 1 output[s]
+[2015.09.19-23.31.18:585][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.09.19-23.31.18:585][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 2046MB of shared system memory, 0 output[s]
+[2015.09.19-23.31.18:585][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.09.19-23.31.18:682][  0]LogRHI: Texture pool is 680 MB (70% of 972 MB)
+[2015.09.19-23.31.18:770][  0]LogD3D11RHI: Async texture creation enabled
+[2015.09.19-23.31.21:620][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/pt-BR/Editor.locres) Hash: (-630476809) String: (Importar para {0}...)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/pt-BR/Editor.locres) Hash: (1271782899) String: (Importa um ativo do arquivo para essa pasta.)
+[2015.09.19-23.31.21:811][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.09.19-23.31.55:726][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.09.19-23.31.59:007][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.09.19-23.31.59:304][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.09.19-23.32.01:292][  0]LogDerivedDataCache: Loaded boot cache 1.87s 36MB C:/Users/Pinguim/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.09.19-23.32.01:292][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Pinguim/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.09.19-23.32.01:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Engine 4/Projeto-Vikings/Vikings_Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.09.19-23.32.01:292][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.09.19-23.32.01:591][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.09.19-23.32.01:693][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pinguim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.09.19-23.32.27:347][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.09.19-23.32.27:347][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.09.19-23.32.29:902][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.09.19-23.32.30:751][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.09.19-23.33.27:343][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.09.19-23.33.31:150][  0]SourceControl: Informações Controle de origem desativado
+[2015.09.19-23.33.31:150][  0]SourceControl: Informações Controle de origem desativado
+[2015.09.19-23.33.31:150][  0]SourceControl: Informações Controle de origem desativado
+[2015.09.19-23.33.31:150][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.09.19-23.33.31:153][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.09.19-23.33.31:253][  0]SourceControl: Informações Controle de origem desativado
+[2015.09.19-23.33.37:544][  0]LogObj: 24236 objects as part of root set at end of initial load.
+[2015.09.19-23.33.37:544][  0]LogUObjectAllocator: 5139032 out of 0 bytes used by permanent object pool.
+[2015.09.19-23.33.40:704][  0]LogAutomationTest:Warning: Smoke tests took > 1s to run: 2.08s
+[2015.09.19-23.33.40:805][  0]LogEngine: Initializing Engine...
+[2015.09.19-23.33.44:076][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.19-23.33.44:200][  0]LogInit: FAudioDevice initialized.
+[2015.09.19-23.33.44:636][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.09.19-23.33.44:995][  0]LogDerivedDataCache: Saved boot cache 0.35s 36MB C:/Users/Pinguim/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.09.19-23.33.45:092][  0]LogInit: Texture streaming: Enabled
+[2015.09.19-23.33.48:753][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.09.19-23.33.48:753][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.6-2513093+++depot+UE4-Releases+4.7
+[2015.09.19-23.33.48:753][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.6-2513093+++depot+UE4-Releases+4.7
+[2015.09.19-23.33.48:765][  0]LogAnalytics: SetUserId afff416c4f471b1067fe2fa11108d65e|18ea21e6b38045feb6ddda7aabe652e3|ec817251-ef51-4ddb-9247-09ff906c2954
+[2015.09.19-23.33.48:766][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.09.19-23.33.50:916][  0]LogInit: Transaction tracking system initialized
+[2015.09.19-23.33.53:734][  0]BlueprintLog: New page: Carregar Editor
+[2015.09.19-23.33.53:954][  0]LogAssetRegistry: FAssetRegistry took 0.0165 seconds to start up
+[2015.09.19-23.33.53:955][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.09.19-23.34.05:409][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.09.19-23.34.07:452][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.09.19-23.34.39:559][  0]LogLinker:Warning: Não é possível encontrar o arquivo “/Game/2DSideScrollerBP/2DSideScrollerOverview”
+[2015.09.19-23.34.39:559][  0]LogLinker:Warning: Não é possível encontrar o arquivo “/Game/2DSideScrollerBP/2DSideScrollerOverview”
+[2015.09.19-23.34.39:559][  0]LogUObjectGlobals:Warning: Falha ao encontrar ob
