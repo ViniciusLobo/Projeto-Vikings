@@ -12,5 +12,5 @@ UCLASS()
 
 class VIKINGS_UNREAL_API AVikings_UnrealGameMode : public AGameMode
 {
-	GENERATED_BODY()
+    //GENERATED_BODY();
 };

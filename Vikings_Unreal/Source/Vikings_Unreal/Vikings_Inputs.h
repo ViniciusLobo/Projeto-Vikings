@@ -22,7 +22,7 @@ struct EventKeys {
 };
 
 struct KeyboardInput {
-    
+    KeyboardInput();
 };
 
 enum EventTypes {
