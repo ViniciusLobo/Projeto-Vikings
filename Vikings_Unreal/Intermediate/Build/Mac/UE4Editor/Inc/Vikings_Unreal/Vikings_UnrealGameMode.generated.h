@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VIKINGS_UNREAL_Vikings_UnrealGameMode_generated_h
 
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_RPC_WRAPPERS
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_RPC_WRAPPERS
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesAVikings_UnrealGameMode(); \
 	friend VIKINGS_UNREAL_API class UClass* Z_Construct_UClass_AVikings_UnrealGameMode(); \
@@ -26,7 +26,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	virtual UObject* _getUObject() const override { return const_cast<AVikings_UnrealGameMode*>(this); }
 
 
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_INCLASS \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_INCLASS \
 	private: \
 	static void StaticRegisterNativesAVikings_UnrealGameMode(); \
 	friend VIKINGS_UNREAL_API class UClass* Z_Construct_UClass_AVikings_UnrealGameMode(); \
@@ -37,7 +37,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	virtual UObject* _getUObject() const override { return const_cast<AVikings_UnrealGameMode*>(this); }
 
 
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_STANDARD_CONSTRUCTORS \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AVikings_UnrealGameMode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVikings_UnrealGameMode) \
@@ -49,7 +49,7 @@ private: \
 public:
 
 
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AVikings_UnrealGameMode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -62,24 +62,24 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVikings_UnrealGameMode); \
 
 
 #define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_11_PROLOG
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_GENERATED_BODY_LEGACY \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_RPC_WRAPPERS \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_INCLASS \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_STANDARD_CONSTRUCTORS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_RPC_WRAPPERS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_INCLASS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_STANDARD_CONSTRUCTORS \
 public: \
-PRAGMA_POP
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_GENERATED_BODY \
+#define Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_INCLASS_NO_PURE_DECLS \
+	Vikings_Unreal_Source_Vikings_Unreal_Vikings_UnrealGameMode_h_14_ENHANCED_CONSTRUCTORS \
 private: \
-PRAGMA_POP
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID

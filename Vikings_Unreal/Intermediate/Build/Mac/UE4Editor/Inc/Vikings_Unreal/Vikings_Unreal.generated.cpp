@@ -12,7 +12,7 @@ void EmptyLinkFunctionForGeneratedCodeVikings_Unreal() {}
 	void AVikings_UnrealGameMode::StaticRegisterNativesAVikings_UnrealGameMode()
 	{
 	}
-	IMPLEMENT_CLASS(AVikings_UnrealGameMode, 518031235);
+	IMPLEMENT_CLASS(AVikings_UnrealGameMode, 3735373316);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AGameMode();
