@@ -8,11 +8,6 @@
 
 #include "Vikings_Inputs.h"
 
-KeyboardInput::KeyboardInput() {
-    
-}
-
-
 Input::Input() {
     
 }
